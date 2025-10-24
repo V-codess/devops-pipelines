@@ -1,2 +1,2 @@
 console.log("Hello DevOps!");
-console.log("Learning CI/CD")
+console.log("Learning CI/CD");
