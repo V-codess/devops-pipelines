@@ -31,7 +31,6 @@ jobs:
        uses: actions/upload-artifact@v4
        with:
          name: build-files
-         path: dist/
 
      - name: Notify whenever the build fails
        if: failure()
